@@ -50,7 +50,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/numpy-image-editor.git
+git clone https://github.com/SG170/numpy-image-editor.git
 
 Move into the project folder:
 
